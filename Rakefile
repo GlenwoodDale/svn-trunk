@@ -3,6 +3,7 @@
 # a comment update
 # another comment 
 # and yet another comment
+# and yes this is boring but here's another comment
 require File.expand_path('../config/application', __FILE__)
 
 Rails.application.load_tasks
