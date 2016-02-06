@@ -5,6 +5,7 @@
 # and yet another comment
 # and yes this is boring but here's another comment
 # here's a change made in the svn folder
+# and another change make in the svn folder
 require File.expand_path('../config/application', __FILE__)
 
 Rails.application.load_tasks
